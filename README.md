@@ -8,3 +8,5 @@ This is a **multi featured** Open Source discord bot made by Curcit! It is curre
 + Gets updated frequently.
 
 Have fun! Please give me credit if you use the source code!
+
+**Read the instructions folder on how to use the bot.**
