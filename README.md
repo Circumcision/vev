@@ -1,5 +1,5 @@
 # Vev
-This is a **multi featured** Open Source discord bot made by Curcit! It is currently in beta but it provides the following commands so far: 
+This is a **multi featured** Open Source discord bot made by Curcit aka Circumcision! It is currently in beta but it provides the following commands so far: 
 + Tickets 
 + Help command
 + Command handler
