@@ -1,0 +1,13 @@
+Here is the command template for vev.
+
+
+const { Client, Collection, MessageEmbed }= require('discord.js');
+
+module.exports.config = {
+  name: "cmd",
+  aliases: [] // Have to add the aliases or cmd won't work.
+}
+
+module.exports.run = async (client, message, args) => {
+  //Write code here.
+}

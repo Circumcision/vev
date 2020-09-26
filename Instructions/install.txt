@@ -1,0 +1,5 @@
+Installing Vev's requirements:
+
+HINT: it's actually really simple!
+
+For now vev's only requirement is Discord.js, which requires you to have Node.js.

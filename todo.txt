@@ -1,0 +1,7 @@
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+                  Todo
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++
++ Add a ban command, kick command, mute and more
++ Make a dashboard(Will do this in future as it takes a ton of time.)
++ Hook bot up to db for economy
