@@ -1,0 +1,2 @@
+How do I turn on vev?
+It's simple! Make a config.json file with the bots token and that is all you have to do!
