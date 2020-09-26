@@ -1,3 +1,4 @@
+//Made by js#0003(Curcit)
 const { Client, Collection, MessageEmbed }= require('discord.js');
 const client = new Client();
 const prefix = '!'
